@@ -1,0 +1,22 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# pdf images folder
+pdf_images
+doc_files
+DataForT2D
